@@ -1,0 +1,100 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Jan31 ?        00:00:04 /sbin/init maybe-ubiquity
+root           2       0  0 Jan31 ?        00:00:00 [kthreadd]
+root           3       2  0 Jan31 ?        00:00:00 [rcu_gp]
+root           4       2  0 Jan31 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 Jan31 ?        00:00:00 [kworker/0:0H]
+root           8       2  0 Jan31 ?        00:00:00 [mm_percpu_wq]
+root           9       2  0 Jan31 ?        00:00:02 [ksoftirqd/0]
+root          10       2  0 Jan31 ?        00:00:01 [rcu_sched]
+root          11       2  0 Jan31 ?        00:00:01 [migration/0]
+root          12       2  0 Jan31 ?        00:00:00 [idle_inject/0]
+root          14       2  0 Jan31 ?        00:00:00 [cpuhp/0]
+root          15       2  0 Jan31 ?        00:00:00 [kdevtmpfs]
+root          16       2  0 Jan31 ?        00:00:00 [netns]
+root          17       2  0 Jan31 ?        00:00:00 [rcu_tasks_kthre]
+root          18       2  0 Jan31 ?        00:00:00 [kauditd]
+root          19       2  0 Jan31 ?        00:00:00 [khungtaskd]
+root          20       2  0 Jan31 ?        00:00:00 [oom_reaper]
+root          21       2  0 Jan31 ?        00:00:00 [writeback]
+root          22       2  0 Jan31 ?        00:00:00 [kcompactd0]
+root          23       2  0 Jan31 ?        00:00:00 [ksmd]
+root          24       2  0 Jan31 ?        00:00:00 [khugepaged]
+root          70       2  0 Jan31 ?        00:00:00 [kintegrityd]
+root          71       2  0 Jan31 ?        00:00:00 [kblockd]
+root          72       2  0 Jan31 ?        00:00:00 [blkcg_punt_bio]
+root          73       2  0 Jan31 ?        00:00:00 [tpm_dev_wq]
+root          74       2  0 Jan31 ?        00:00:00 [ata_sff]
+root          75       2  0 Jan31 ?        00:00:00 [md]
+root          76       2  0 Jan31 ?        00:00:00 [edac-poller]
+root          77       2  0 Jan31 ?        00:00:00 [devfreq_wq]
+root          78       2  0 Jan31 ?        00:00:00 [watchdogd]
+root          83       2  0 Jan31 ?        00:00:00 [kswapd0]
+root          84       2  0 Jan31 ?        00:00:00 [ecryptfs-kthrea]
+root          86       2  0 Jan31 ?        00:00:00 [kthrotld]
+root          87       2  0 Jan31 ?        00:00:00 [acpi_thermal_pm]
+root          89       2  0 Jan31 ?        00:00:00 [scsi_eh_0]
+root          90       2  0 Jan31 ?        00:00:00 [scsi_tmf_0]
+root          91       2  0 Jan31 ?        00:00:00 [scsi_eh_1]
+root          92       2  0 Jan31 ?        00:00:00 [scsi_tmf_1]
+root          93       2  0 Jan31 ?        00:00:00 [vfio-irqfd-clea]
+root          95       2  0 Jan31 ?        00:00:02 [kworker/0:1H-kblockd]
+root          96       2  0 Jan31 ?        00:00:00 [ipv6_addrconf]
+root         105       2  0 Jan31 ?        00:00:00 [kstrp]
+root         108       2  0 Jan31 ?        00:00:00 [kworker/u3:0]
+root         121       2  0 Jan31 ?        00:00:00 [charger_manager]
+root         157       2  0 Jan31 ?        00:00:00 [scsi_eh_2]
+root         159       2  0 Jan31 ?        00:00:00 [scsi_tmf_2]
+root         176       2  0 Jan31 ?        00:00:00 [cryptd]
+root         188       2  0 Jan31 ?        00:00:00 [irq/18-vmwgfx]
+root         190       2  0 Jan31 ?        00:00:00 [ttm_swap]
+root         206       2  0 Jan31 ?        00:00:00 [kdmflush]
+root         232       2  0 Jan31 ?        00:00:00 [raid5wq]
+root         276       2  0 Jan31 ?        00:00:00 [jbd2/dm-0-8]
+root         280       2  0 Jan31 ?        00:00:00 [ext4-rsv-conver]
+root         350       1  0 Jan31 ?        00:00:02 /lib/systemd/systemd-journald
+root         373       2  0 Jan31 ?        00:00:00 [ipmi-msghandler]
+root         380       1  0 Jan31 ?        00:00:02 /lib/systemd/systemd-udevd
+root         398       2  0 Jan31 ?        00:00:00 [iprt-VBoxWQueue]
+root         533       2  0 Jan31 ?        00:00:00 [kaluad]
+root         534       2  0 Jan31 ?        00:00:00 [kmpath_rdacd]
+root         535       2  0 Jan31 ?        00:00:00 [kmpathd]
+root         536       2  0 Jan31 ?        00:00:00 [kmpath_handlerd]
+root         537       1  0 Jan31 ?        00:00:01 /sbin/multipathd -d -s
+root         549       2  0 Jan31 ?        00:00:00 [loop0]
+root         551       2  0 Jan31 ?        00:00:00 [loop1]
+root         553       2  0 Jan31 ?        00:00:00 [loop2]
+root         554       2  0 Jan31 ?        00:00:00 [loop3]
+root         557       2  0 Jan31 ?        00:00:00 [loop4]
+root         560       2  0 Jan31 ?        00:00:00 [jbd2/sda2-8]
+root         561       2  0 Jan31 ?        00:00:00 [ext4-rsv-conver]
+systemd+     574       1  0 Jan31 ?        00:00:00 /lib/systemd/systemd-timesyncd
+systemd+     621       1  0 Jan31 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     623       1  0 Jan31 ?        00:00:00 /lib/systemd/systemd-resolved
+root         636       1  0 Jan31 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         639       1  0 Jan31 ?        00:00:00 /usr/sbin/cron -f
+message+     640       1  0 Jan31 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         645       1  0 Jan31 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         646       1  0 Jan31 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       647       1  0 Jan31 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         649       1  0 Jan31 ?        00:00:04 /usr/lib/snapd/snapd
+root         652       1  0 Jan31 ?        00:00:00 /lib/systemd/systemd-logind
+root         654       1  0 Jan31 ?        00:00:00 /usr/lib/udisks2/udisksd
+daemon       655       1  0 Jan31 ?        00:00:00 /usr/sbin/atd -f
+root         660       1  0 Jan31 tty1     00:00:00 /bin/login -p --
+root         685       1  0 Jan31 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         695       1  0 Jan31 ?        00:00:00 /usr/sbin/ModemManager
+root         699       1  0 Jan31 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+jthao        974       1  0 Jan31 ?        00:00:00 /lib/systemd/systemd --user
+jthao        975     974  0 Jan31 ?        00:00:00 (sd-pam)
+jthao        980     660  0 Jan31 tty1     00:00:00 -bash
+root        1010     685  0 Jan31 ?        00:00:00 sshd: jthao [priv]
+jthao       1092    1010  0 Jan31 ?        00:00:40 sshd: jthao@pts/0
+jthao       1093    1092  0 Jan31 pts/0    00:00:00 -bash
+root        1158       2  0 Jan31 ?        00:00:14 [kworker/0:0-events]
+root        1227       2  0 Jan31 ?        00:00:00 [kworker/u2:3-events_unbound]
+root        1267       2  0 Jan31 ?        00:00:00 [kworker/u2:2-events_power_efficient]
+root        1268       2  0 Jan31 ?        00:00:02 [kworker/0:2-events]
+root        1282       2  0 00:04 ?        00:00:00 [kworker/u2:1-events_power_efficient]
+root        1300       2  0 00:10 ?        00:00:00 [kworker/u2:0-events_power_efficient]
+jthao       1314    1093  0 00:16 pts/0    00:00:00 ps -ef
